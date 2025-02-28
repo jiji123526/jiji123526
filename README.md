@@ -11,7 +11,7 @@ I specialize in **analyzing language structures, building AI-enhanced educationa
 - 🌐 **Frontend Development** – Developed **TutorMatch**, a web app for student collaboration using **JavaScript & React**  
 
 ### 💡 Projects  
-🔹 **[AI-Driven Problem Generator](https://github.com/your-repo)**  
+🔹 **[AI-Driven Problem Generator]()**  
 _Developing an adaptive NLP-based problem generator for standardized tests (SAT, TOEFL)._  
 - Utilized **Python, NLTK, and SpaCy** for sentence structure analysis  
 - Designed a **customizable question generation system** based on linguistic patterns  
