@@ -33,7 +33,7 @@ _A web app enabling UCLA students to seek academic help and connect with peers._
 🔹 **Tools & Platforms:** Git, AWS, Tableau  
 
 ### 📫 Get in Touch  
-💼 **LinkedIn:** [https://www.linkedin.com/in/jiwoo-jeong-9351962b1/]
+💼 **LinkedIn:** [https://www.linkedin.com/in/jiwoo-jeong-9351962b1/](https://www.linkedin.com/in/jiwoo-jeong-9351962b1/)  
 📧 **Email:** jiwoo315@ucla.edu  
 
 ---
